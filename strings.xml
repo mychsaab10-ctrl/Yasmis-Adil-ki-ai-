@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Yesmin AI</string>
+    <string name="a11y_desc">Lets Yesmin AI read the screen and perform taps, scrolls and navigation ONLY when you ask it to inside the app. You can turn this off at any time.</string>
+</resources>
